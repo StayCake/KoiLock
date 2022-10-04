@@ -1,0 +1,9 @@
+name: KoiLock
+main: com.koisv.koilock.KoiLock
+version: 0.1-SNAPSHOT
+author: KeiKoi
+website: "https://www.koisv.com"
+api-version: 1.19
+description: Just Lock Ur Stuff
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.20
